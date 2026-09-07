@@ -1,4 +1,4 @@
-# [Ad Soyad] — Klinik Psikoloji Web Sitesi
+# Dinçer Güder — Klinik Psikoloji Web Sitesi
 
 Bu, GitHub Pages üzerinde ücretsiz olarak yayınlayabileceğiniz, hazır bir web sitesidir. Kod bilgisi gerekmeden, dosyaları düz metin editörüyle (ör. GitHub'ın kendi düzenleyicisi) açıp içeriği değiştirebilirsiniz.
 
